@@ -5,7 +5,7 @@ previous:
   path: ../../
 ---
 
-_**ASoulDocs**_ is a stupid web server for multilingual documentation.
+_**ASoulDocs**_ is a web server for multilingual documentation.
 
 ## Motivation
 
